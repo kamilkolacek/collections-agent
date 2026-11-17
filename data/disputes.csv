@@ -1,0 +1,5 @@
+dispute_id,customer_id,invoice_id,opened_date,reason,disputed_amount,status,dispute_owner
+DSP-001,C-1006,INV-1006-202607,2026-08-20,"Pricing - invoice billed at list rate, contract rate is 15% lower",18000.00,Open,Marcus Lee
+DSP-002,C-1008,INV-1008-202609,2026-10-17,Service credit - 3-day platform outage in September not credited,8400.00,Open,Dana Ortiz
+DSP-003,C-1014,INV-1014-202608,2026-09-10,Service outage - streaming down at 4 locations for 2 weeks,5453.66,Open,Tom Becker
+DSP-004,C-1014,INV-1014-202609,2026-10-11,Service outage - streaming down at 4 locations for 2 weeks,5373.45,Open,Tom Becker

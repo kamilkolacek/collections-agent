@@ -1,0 +1,14 @@
+rank,customer_id,customer_name,segment,tier,past_due_undisputed,max_days_past_due,risk_score,risk_band,trend,hold_recommended,account_owner
+1,C-1018,Horizon Sports Network,Enterprise,final,499708.97,107,63.2,High,DETERIORATING,True,Marcus Lee
+2,C-1003,Northwind Media Partners,Enterprise,firm,371386.77,37,30.9,Medium,DETERIORATING,False,Priya Shah
+3,C-1005,Polaris Fitness Studios,SMB,final,37660.62,108,65.3,High,DETERIORATING,True,Tom Becker
+4,C-1011,Quantum Telecom,Enterprise,friendly,296268.67,1,8.6,Low,STABLE,False,Marcus Lee
+5,C-1004,Cedar Valley Cable,Mid-Market,firm,85999.5,37,25.3,Medium,CHRONIC_LATE,False,Dana Ortiz
+6,C-1012,Lakeside Cinemas,Mid-Market,escalation,30900.96,75,32.5,Medium,IMPROVING,False,Dana Ortiz
+7,C-1008,Atlas Education Network,Mid-Market,firm,26959.78,50,28.1,Medium,CHRONIC_LATE,False,Dana Ortiz
+8,C-1007,Redwood Sports Bars,SMB,escalation,18886.25,73,33.8,Medium,STABLE,False,Tom Becker
+9,C-1015,Sterling Cruise Lines,Enterprise,friendly,93660.98,4,11.4,Low,STABLE,False,Priya Shah
+10,C-1013,Orchid Wellness Apps,SMB,final,2700.0,91,49.9,High,DETERIORATING,True,Tom Becker
+11,C-1002,Harbor Hotels Group,Mid-Market,friendly,29310.47,9,11.3,Low,STABLE,False,Marcus Lee
+12,C-1010,Meridian Retail Displays,SMB,friendly,4786.63,23,19.7,Low,DETERIORATING,False,Tom Becker
+13,C-1017,Pinecrest Senior Living,SMB,friendly,3925.47,3,12.5,Low,STABLE,False,Dana Ortiz

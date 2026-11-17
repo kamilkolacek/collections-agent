@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m collections_agent analyze:*)",
+      "Bash(python3 -m collections_agent analyze:*)",
+      "Bash(python -m collections_agent customer:*)",
+      "Bash(python3 -m collections_agent customer:*)",
+      "Bash(python -m collections_agent validate:*)",
+      "Bash(python3 -m collections_agent validate:*)",
+      "Bash(python -m collections_agent status:*)",
+      "Bash(python3 -m collections_agent status:*)",
+      "Bash(python -m collections_agent verify-log:*)",
+      "Bash(python3 -m collections_agent verify-log:*)",
+      "Bash(python -m unittest:*)",
+      "Bash(python3 -m unittest:*)",
+      "Write(output/runs/**/review_queue/**)",
+      "Write(output/runs/**/run_report.md)"
+    ],
+    "deny": [
+      "Bash(python -m collections_agent approve:*)",
+      "Bash(python3 -m collections_agent approve:*)",
+      "Bash(python -m collections_agent reject:*)",
+      "Bash(python3 -m collections_agent reject:*)",
+      "Edit(data/**)",
+      "Write(data/**)",
+      "Edit(**/audit_log.jsonl)",
+      "Write(**/audit_log.jsonl)",
+      "Edit(**/approved/**)",
+      "Write(**/approved/**)"
+    ]
+  }
+}

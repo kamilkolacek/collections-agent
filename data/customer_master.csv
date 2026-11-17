@@ -1,0 +1,21 @@
+customer_id,customer_name,segment,credit_limit,payment_terms_days,account_owner,account_owner_email,ar_contact_email,currency
+C-1001,Brightline Ad Agency,Enterprise,600000,45,Priya Shah,priya.shah@luminastreaming.example,ap@brightline-ad-agency.example,USD
+C-1002,Harbor Hotels Group,Mid-Market,90000,30,Marcus Lee,marcus.lee@luminastreaming.example,ap@harbor-hotels-group.example,USD
+C-1003,Northwind Media Partners,Enterprise,650000,45,Priya Shah,priya.shah@luminastreaming.example,ap@northwind-media-partners.example,USD
+C-1004,Cedar Valley Cable,Mid-Market,150000,30,Dana Ortiz,dana.ortiz@luminastreaming.example,ap@cedar-valley-cable.example,USD
+C-1005,Polaris Fitness Studios,SMB,25000,30,Tom Becker,tom.becker@luminastreaming.example,ap@polaris-fitness-studios.example,USD
+C-1006,Summit Airlines Inflight,Enterprise,500000,45,Marcus Lee,marcus.lee@luminastreaming.example,ap@summit-airlines-inflight.example,USD
+C-1007,Redwood Sports Bars,SMB,30000,30,Tom Becker,tom.becker@luminastreaming.example,ap@redwood-sports-bars.example,USD
+C-1008,Atlas Education Network,Mid-Market,120000,30,Dana Ortiz,dana.ortiz@luminastreaming.example,ap@atlas-education-network.example,USD
+C-1009,Blue Fjord Distribution,Enterprise,400000,45,Priya Shah,priya.shah@luminastreaming.example,ap@blue-fjord-distribution.example,USD
+C-1010,Meridian Retail Displays,SMB,20000,30,Tom Becker,tom.becker@luminastreaming.example,ap@meridian-retail-displays.example,USD
+C-1011,Quantum Telecom,Enterprise,900000,45,Marcus Lee,marcus.lee@luminastreaming.example,ap@quantum-telecom.example,USD
+C-1012,Lakeside Cinemas,Mid-Market,80000,30,Dana Ortiz,dana.ortiz@luminastreaming.example,ap@lakeside-cinemas.example,USD
+C-1013,Orchid Wellness Apps,SMB,5000,30,Tom Becker,tom.becker@luminastreaming.example,ap@orchid-wellness-apps.example,USD
+C-1014,Ironwood Gyms,SMB,25000,30,Tom Becker,tom.becker@luminastreaming.example,ap@ironwood-gyms.example,USD
+C-1015,Sterling Cruise Lines,Enterprise,350000,45,Priya Shah,priya.shah@luminastreaming.example,ap@sterling-cruise-lines.example,USD
+C-1016,Vantage Car Rentals,Mid-Market,70000,30,Marcus Lee,marcus.lee@luminastreaming.example,ap@vantage-car-rentals.example,USD
+C-1017,Pinecrest Senior Living,SMB,15000,30,Dana Ortiz,dana.ortiz@luminastreaming.example,ap@pinecrest-senior-living.example,USD
+C-1018,Horizon Sports Network,Enterprise,400000,45,Marcus Lee,marcus.lee@luminastreaming.example,ap@horizon-sports-network.example,USD
+C-1019,Golden Gate Podcasts,SMB,10000,30,Tom Becker,tom.becker@luminastreaming.example,ap@golden-gate-podcasts.example,USD
+C-1020,Evergreen Transit Ads,Mid-Market,60000,30,Dana Ortiz,dana.ortiz@luminastreaming.example,ap@evergreen-transit-ads.example,USD
